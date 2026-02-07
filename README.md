@@ -25,5 +25,10 @@ Actualmente no cuento con experiencia laboral formal, pero he trabajado en proye
 ## Objetivo profesional
 Seguir desarrollándome como profesional en el área de software y adquirir experiencia en entornos reales.
 
+## Actualmente aprendiendo
+- Git y GitHub
+- Mejores prácticas en desarrollo web
+- Lógica de programación
+
 ---
 GitHub creado como parte de Bcamp1
