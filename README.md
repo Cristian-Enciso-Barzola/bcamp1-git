@@ -22,5 +22,8 @@ Soy estudiante de Ingeniería de Software con IA en SENATI, actualmente en cuart
 ## Experiencia
 Actualmente no cuento con experiencia laboral formal, pero he trabajado en proyectos académicos y me encuentro realizando prácticas para fortalecer mis conocimientos.
 
+## Objetivo profesional
+Seguir desarrollándome como profesional en el área de software y adquirir experiencia en entornos reales.
+
 ---
 GitHub creado como parte de Bcamp1
